@@ -1,4 +1,11 @@
 # Machine_Learning
+<p>Deliverable 1 & 2: https://github.com/JoePizz/Machine_Learning/blob/main/AlphabetSoupCharity.ipynb<p>
+<p>Deliverable 3: Attempt 1 https://github.com/JoePizz/Machine_Learning/blob/main/AlphabetSoupCharity_Optimzation.ipynb
+  Attempt 2: https://github.com/JoePizz/Machine_Learning/blob/main/AlphabetSoupCharity_Optimzation2.ipynb
+  Attempt 3: https://github.com/JoePizz/Machine_Learning/blob/main/AlphabetSoupCharity_Optimzation3.ipynb
+  https://github.com/JoePizz/Machine_Learning/blob/main/trained_application.h5
+  https://github.com/JoePizz/Machine_Learning/blob/main/trained_application_adjust.h5
+  
 <p> Deliverable 4 <p>
 <p>The purpose of this analysis is to create a binary classifier that can predict whether or not an application will be successfully funded by Alphabet Soup. The binary classifier will use information with historic data of successful and unsuccessful applicants to Alphabet Soup.<p>
 <p>**Results**<p>
